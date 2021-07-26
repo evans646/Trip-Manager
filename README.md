@@ -9,4 +9,5 @@ Get all trips
 Update and delete trips as well 
 
 
-There's authentication added and authorzation, users needs to be logged in with email and password or using their google account. 
+There's authentication  and authorzation, users needs to be logged in with email and password or using their google account before they can see all trips
+make any changes or delete trip
