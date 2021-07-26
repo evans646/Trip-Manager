@@ -1,6 +1,6 @@
 # <h1>Trip-Manager</h1>
 
-Simple trip manager app, created using the ASP.NET CORE framework. 
+Simple trip manager application, created using the ASP.NET CORE framework. 
 
 Focuses mainly on CRUD. 
 
